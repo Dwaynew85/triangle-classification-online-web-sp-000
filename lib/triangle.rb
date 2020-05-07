@@ -48,5 +48,3 @@ class Triangle
   end
 
 end
-
-
